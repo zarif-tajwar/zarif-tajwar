@@ -1,4 +1,5 @@
-### Hi there 👋
+## Well hello 👋, I'm Zarif.
+#### At present, I'm a TypeScript & Next.js React based full-stack developer. I'm curious about everything related to software development and am trying to go on a journey of getting experienced in lower-level languages and tools.
 
 <!--
 **zarif-tajwar/zarif-tajwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
